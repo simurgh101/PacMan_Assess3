@@ -1,19 +1,10 @@
 fileFormatVersion: 2
-guid: 392d5275536454a429027781dcaffc4e
+guid: a30f90e2aef44491585258e1cdae3e01
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8168981437214101933
-    second: Ghost_3png_0
-  - first:
-      213: -7896586926820120606
-    second: Ghost_3png_1
-  - first:
-      213: 5114100456137143105
-    second: Ghost_3png_2
-  - first:
-      213: 3586953768445794077
-    second: Ghost_3png_3
+      213: 1963483803687513717
+    second: PacDead_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -56,11 +47,11 @@ TextureImporter:
   lightmap: 0
   compressionQuality: 50
   spriteMode: 2
-  spriteExtrude: 1
+  spriteExtrude: 0
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 16
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -122,13 +113,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Ghost_3png_0
+      name: PacDead_0
       rect:
         serializedVersion: 2
-        x: 6
-        y: 38
-        width: 21
-        height: 21
+        x: 4
+        y: 5
+        width: 23
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -136,71 +127,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 35ee71af9a2f1ae80800000000000000
-      internalID: -8168981437214101933
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_3png_1
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 38
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2e7a4e82700b96290800000000000000
-      internalID: -7896586926820120606
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_3png_2
-      rect:
-        serializedVersion: 2
-        x: 6
-        y: 6
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 143b7b9e44fe8f640800000000000000
-      internalID: 5114100456137143105
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Ghost_3png_3
-      rect:
-        serializedVersion: 2
-        x: 38
-        y: 6
-        width: 21
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: d17d5f9a27b67c130800000000000000
-      internalID: 3586953768445794077
+      spriteID: 57ee601dd12bf3b10800000000000000
+      internalID: 1963483803687513717
       vertices: []
       indices: 
       edges: []
@@ -216,10 +144,7 @@ TextureImporter:
     weights: []
     secondaryTextures: []
     nameFileIdTable:
-      Ghost_3png_0: -8168981437214101933
-      Ghost_3png_1: -7896586926820120606
-      Ghost_3png_2: 5114100456137143105
-      Ghost_3png_3: 3586953768445794077
+      PacDead_0: 1963483803687513717
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
